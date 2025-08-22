@@ -65,8 +65,8 @@ export default function Contact() {
         {status && <p className="text-center mt-2 text-sm text-gray-700">{status}</p>}
       </form>
       <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-4">
-        <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="text-blue-700 font-medium hover:underline">LinkedIn</a>
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-800 font-medium hover:underline">GitHub</a>
+        <a href="https://www.linkedin.com/in/surya-balasubramanian-10034a152/" target="_blank" rel="noopener noreferrer" className="text-blue-700 font-medium hover:underline">LinkedIn</a>
+        <a href="https://github.com/SuryaB98" target="_blank" rel="noopener noreferrer" className="text-gray-800 font-medium hover:underline">GitHub</a>
         <a href="/resume.pdf" download className="bg-gray-200 text-gray-800 rounded-full px-4 py-2 font-medium hover:bg-gray-300 transition-colors">Download Resume</a>
       </div>
     </section>
